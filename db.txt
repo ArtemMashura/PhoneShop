@@ -1,0 +1,8 @@
+1|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+2|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+3|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+4|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+5|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+6|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+7|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
+8|/Resources/vyshel-noyj-ie-1-19_4_2_1.jpg|123|12735,34|true|5734523479234627934
